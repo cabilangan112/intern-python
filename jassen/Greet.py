@@ -1,2 +1,4 @@
-person = raw_input('Enter your name: ')
-print 'Hello', person,  
+def greet(yo):
+    name = input("What's your name: ")
+    return yo + name
+print greet("hi! ")
