@@ -2,7 +2,7 @@
 
 
 number_1 = int(input('Enter your first number: '))
-operation = raw_input('''
+operation = input('''
 Please type in the math operation you would like to complete:
 + for addition
 - for subtraction
